@@ -49,5 +49,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git add malicious-robots-daily.csv
-          git commit -m "Update malicious-robots.txt" || echo "No changes to commit"
+          git commit -m "Update malicious-robots.csv" || echo "No changes to commit"
           git push origin main
