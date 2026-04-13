@@ -1,4 +1,4 @@
-# Malicious-Robots.txt
+# Malicious-Robots
 
 Here you will find a list of ip addresses that I was able to detect, the malicious-robots.txt file is downloadable and easy to add to a firewall for example.
 Updates are daily with everything that was detected the day before. IPs are also autmatically reported from my honeypots to AbuseIP in order to extend the sharing of information to the maximum.
